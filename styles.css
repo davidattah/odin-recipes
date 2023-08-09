@@ -1,0 +1,32 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 100px;
+    margin-top:50px;
+}
+
+body{
+    background-color: yellow;
+    margin: 0 400px 0 400px;
+}
+
+body,h1,a{
+    color:crimson;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+li{
+    margin: 0 0 50px 0;
+    font-size: 35px;
+}
+
+div{
+    border: 2px solid crimson;
+    border-radius: 20px;
+   
+}
