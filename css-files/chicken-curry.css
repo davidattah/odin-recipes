@@ -1,0 +1,15 @@
+img{
+    height: auto;
+    width: 400px;
+    margin-left: 750px;
+}
+
+body{
+    background-color: #f8f8f3;
+}
+h1{
+    text-align: center;
+}
+h1,body{
+    color:lightsalmon;
+}
