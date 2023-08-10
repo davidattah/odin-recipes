@@ -3,3 +3,15 @@ img{
     width: 400px;
     margin-left: 750px;
 }
+
+body{
+    background-color:burlywood
+}
+
+h1{
+    text-align: center;
+}
+
+h1,body{
+    color:rgb(254, 232, 197)
+}
